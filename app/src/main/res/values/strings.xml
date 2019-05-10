@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">MultiQuizProApp</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+    <string name="results">Results</string>
+    <string name="start_over">StartOver</string>
+
+
+    <array name="all_questions">
+        <item>¿Quién fue el primer inca del Perú?;Lloque Yupanqui;*Manco Cápac;Sinchi Roca;Cápac Yupanqui</item>
+        <item>¿Cuánto es 1+1?;11;*2;-2;N.A</item>
+        <item>¿Quién sale en los billetes de 100 soles?;Pedro Abraham Valdelomar Pinto;*Jorge Basadre Grohmann;Isabel Flores de Oliva;José Abelardo Quiñones Gonzales</item>
+        <item>¿Qué se celebra el 28 de Julio?;Mi cumpleaños;Día de Santa Rosa de Lima;*Fiestas Patrias;Ninguna</item>
+        <item>¿Quién escribió "Azucenas Quechuas"?;*Adolfo Vienrich;Mario Vargas Llosa;Ricardo Palma;José María Arguedas</item>
+        <item>En el Tahuantinsuyo, ¿Cuál de los cuatro suyos era considerado como "Región de la llama"?;Contisuyo;*Collasuyo;Antisuyo;Chinchaysuyo</item>
+        <item>¿Cuál es la ubicación geográfica de la "Cultura Paracas"?;Lima;Ica;Trujillo;*Pisco</item>
+    </array>
+
+
+
+</resources>
